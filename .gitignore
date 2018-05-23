@@ -11,6 +11,10 @@ __pycache__/
 *.db
 *.json
 
+# Image
+*.png
+*.jpg
+
 # Distribution / packaging
 .Python
 env/
